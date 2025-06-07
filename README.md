@@ -1,1 +1,1 @@
-# Flower_pricdiction
+Designed and implemented a machine learning model to accurately classify flower species using key morphological features including petal length, petal width, sepal length, and sepal width. The model was trained and validated on a labeled dataset, achieving high classification accuracy and demonstrating strong potential for real-world botanical identification applications.
